@@ -46,4 +46,4 @@ Published for public review:
 
 - Repository: [`H4XOFFICIAL/codex-user-message-contrast-proposal`](https://github.com/H4XOFFICIAL/codex-user-message-contrast-proposal)
 - Live prototype: [GitHub Pages](https://h4xofficial.github.io/codex-user-message-contrast-proposal/)
-- Upstream proposal: pending publication
+- Upstream proposal: [`openai/codex#35369`](https://github.com/openai/codex/issues/35369)

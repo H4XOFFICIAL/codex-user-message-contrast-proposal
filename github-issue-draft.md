@@ -1,6 +1,8 @@
-# Proposed GitHub Issue
+# Published GitHub Issue
 
 **Title:** Codex Desktop: distinguish user messages from AI inline output with a theme-aware surface
+
+**Published:** [`openai/codex#35369`](https://github.com/openai/codex/issues/35369)
 
 ## Summary
 
